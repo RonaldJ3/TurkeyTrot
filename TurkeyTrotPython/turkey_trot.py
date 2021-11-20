@@ -46,7 +46,7 @@ if __name__ == '__main__':
     HEIGHT = 600
 
     # 1. Set the window variable to turtle.Screen()
-    window = None
+    window = turtle.Screen()
 
     # 2. Call the window's setup() method with the WIDTH and HEIGHT variables
 
